@@ -1,0 +1,10 @@
+{
+  "name": "jonpugh/ansible",
+  "description": "Attemping to add ansible to packagist.",
+  "homepage": "http://www.ansible.com",
+  "minimum-stability": "dev",
+  "bin": [
+    "bin/ansible",
+    "bin/ansible-playbook"
+  ]
+}
