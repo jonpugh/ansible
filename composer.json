@@ -5,6 +5,10 @@
   "minimum-stability": "dev",
   "bin": [
     "bin/ansible",
-    "bin/ansible-playbook"
+    "bin/ansible-doc",
+    "bin/ansible-galaxy",
+    "bin/ansible-playbook",
+    "bin/ansible-pull",
+    "bin/ansible-vault"
   ]
 }
