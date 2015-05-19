@@ -10,5 +10,8 @@
     "bin/ansible-playbook",
     "bin/ansible-pull",
     "bin/ansible-vault"
-  ]
+  ],
+  "scripts": {
+    "post-package-install": "source hacking/env-setup"
+  }
 }
